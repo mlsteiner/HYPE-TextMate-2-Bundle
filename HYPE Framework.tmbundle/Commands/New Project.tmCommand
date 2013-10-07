@@ -11,13 +11,20 @@
 "${TM_PROCESSING_DOCS:=Documents/Processing}"
 
 #TODO Prompt user for name of Directory / project to replace 'HYPE_Test'
+name=$(CocoaDialog inputbox \
+	--title "HYPE Processing" \
+    --informative-text "Please enter a name for your project:" \
+    --button1 "Create" --button2 "Cancel")
 
+[[ $(head -n1 &lt;&lt;&lt;"$name") == "2" ]] &amp;&amp; exit_discard
+
+name=$(tail -n1 &lt;&lt;&lt;"$name")
 cd;
-mkdir "$HOME/$TM_PROCESSING_DOCS/HYPE_Test";
-mkdir "$HOME/$TM_PROCESSING_DOCS/HYPE_Test/build";
-touch "$HOME/$TM_PROCESSING_DOCS/HYPE_Test/build/build.pde";
-curl -o "$HOME/$TM_PROCESSING_DOCS/HYPE_Test/build/HYPE.pde" "https://raw.github.com/hype/HYPE_Processing/master/HYPE.pde";
-open -a "$TM_APP_PATH" "$HOME/$TM_PROCESSING_DOCS/HYPE_Test/build/"</string>
+mkdir "$HOME/$TM_PROCESSING_DOCS/$name";
+mkdir "$HOME/$TM_PROCESSING_DOCS/$name/build";
+touch "$HOME/$TM_PROCESSING_DOCS/$name/build/build.pde";
+curl -o "$HOME/$TM_PROCESSING_DOCS/$name/build/HYPE.pde" "https://raw.github.com/hype/HYPE_Processing/master/HYPE.pde";
+open -a "$TM_APP_PATH" "$HOME/$TM_PROCESSING_DOCS/$name/build/"</string>
 	<key>input</key>
 	<string>selection</string>
 	<key>inputFormat</key>
