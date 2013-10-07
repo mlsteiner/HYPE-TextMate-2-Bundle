@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>HDrawablePool ${1:pool} = new HDrawablePool(${2:100});
+$0</string>
+	<key>name</key>
+	<string>HDrawablePool</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>hdraw</string>
+	<key>uuid</key>
+	<string>DF4F731B-0433-4B51-8BC3-1B4902C5A5FD</string>
+</dict>
+</plist>

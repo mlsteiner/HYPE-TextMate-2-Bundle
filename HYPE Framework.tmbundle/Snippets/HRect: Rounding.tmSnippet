@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.rounding(${1:10})
+$0</string>
+	<key>name</key>
+	<string>HRect: Rounding</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>rounding</string>
+	<key>uuid</key>
+	<string>6E0A368E-B502-4CD2-A583-D814C2417ED1</string>
+</dict>
+</plist>

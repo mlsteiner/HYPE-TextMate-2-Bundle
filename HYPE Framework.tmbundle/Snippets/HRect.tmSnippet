@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>HRect ${1:rectangle} = new HRect(${2:size});
+	H.add(${1:rectangle})
+		${3}
+	;
+$0</string>
+	<key>name</key>
+	<string>HRect</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>hrect</string>
+	<key>uuid</key>
+	<string>06833731-D5B1-4765-8E00-386C2F717D97</string>
+</dict>
+</plist>

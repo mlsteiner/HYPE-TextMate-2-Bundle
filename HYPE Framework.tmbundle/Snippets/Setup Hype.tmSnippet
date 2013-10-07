@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$4
+
+void setup() {
+	size(${1:displayWidth}, ${2:displayHeight});
+	smooth();
+	H.init(this).background(${3:#ECECEC});
+	$0
+}
+
+void draw() {
+	H.drawStage();
+}</string>
+	<key>name</key>
+	<string>Setup Hype</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>setup</string>
+	<key>uuid</key>
+	<string>DD5D820E-4C05-48A8-B721-D26BF8B70E97</string>
+</dict>
+</plist>

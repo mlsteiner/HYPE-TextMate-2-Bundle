@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>#!/usr/bin/env bash
+[[ -f "${TM_SUPPORT_PATH}/lib/bash_init.sh" ]] &amp;&amp; . "${TM_SUPPORT_PATH}/lib/bash_init.sh"
+
+echo -ne "HShape \${1:svg} = new HShape(\"$TM_DROPPED_FILE\");\nH.add(\${1:svg})\n\$2\n;"</string>
+	<key>draggedFileExtensions</key>
+	<array>
+		<string>svg</string>
+	</array>
+	<key>name</key>
+	<string>Insert SVG</string>
+	<key>output</key>
+	<string>insertAsSnippet</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>svg</string>
+	<key>uuid</key>
+	<string>3AE81C91-747F-4479-B363-496581D68357</string>
+</dict>
+</plist>

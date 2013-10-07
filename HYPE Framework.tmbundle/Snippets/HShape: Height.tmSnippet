@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.height(${1:height})
+$0
+</string>
+	<key>name</key>
+	<string>HDrawables: Height</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>height</string>
+	<key>uuid</key>
+	<string>5A181410-1AF7-4D9D-99B2-F6E20F0FA649</string>
+</dict>
+</plist>

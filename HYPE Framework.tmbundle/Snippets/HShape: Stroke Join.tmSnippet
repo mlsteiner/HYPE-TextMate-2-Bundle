@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.strokeJoin(${1|ROUND,MITER|})
+$0</string>
+	<key>name</key>
+	<string>HDrawables: Stroke Join</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>strokejoin</string>
+	<key>uuid</key>
+	<string>1CAFB44C-8894-427B-857F-818D9C1A5305</string>
+</dict>
+</plist>

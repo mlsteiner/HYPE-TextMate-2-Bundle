@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>HRotate ${1:rotate} = new HRotate(${2:target}, ${3:speed});
+$0
+</string>
+	<key>name</key>
+	<string>HRotate Condensed</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>hrotate</string>
+	<key>uuid</key>
+	<string>678602EF-006A-4079-B2A1-4D1C70A21563</string>
+</dict>
+</plist>

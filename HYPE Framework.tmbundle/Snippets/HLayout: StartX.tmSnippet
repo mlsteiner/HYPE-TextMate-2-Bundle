@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.startX(${1:xPos})
+$0</string>
+	<key>name</key>
+	<string>HLayout: StartX</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>startX</string>
+	<key>uuid</key>
+	<string>91D17E13-5AC2-4FF3-A2A3-1A02407C4281</string>
+</dict>
+</plist>

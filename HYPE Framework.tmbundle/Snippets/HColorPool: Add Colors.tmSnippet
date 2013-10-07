@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>HColorPool ${1:colors} = new HColorPool()
+	.add(${2:#FFFFFF})
+;
+$0
+</string>
+	<key>name</key>
+	<string>HColorPool: Add Colors</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>hcolorpool</string>
+	<key>uuid</key>
+	<string>00D00858-EBDC-4808-AC4D-2576FDD2A214</string>
+</dict>
+</plist>

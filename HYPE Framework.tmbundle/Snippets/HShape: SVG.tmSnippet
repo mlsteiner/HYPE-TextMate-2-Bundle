@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.add(new ${2:HShape("${1:file.svg}")})
+$0
+</string>
+	<key>name</key>
+	<string>HShape: Add SVG</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>add</string>
+	<key>uuid</key>
+	<string>0D9422FD-1849-4885-A632-A0A1FA56A4E2</string>
+</dict>
+</plist>

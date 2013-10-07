@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>HRotate ${1:rotate} = new HRotate().target(${2:target}).speedRad(${3:radians});
+$0</string>
+	<key>name</key>
+	<string>HRotate Radians</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>hrotate</string>
+	<key>uuid</key>
+	<string>95B27C0A-EEAC-4317-B35E-25172475D5C6</string>
+</dict>
+</plist>

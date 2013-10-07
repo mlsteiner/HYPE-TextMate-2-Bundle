@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.visibility(${1|true,false|})
+$0</string>
+	<key>name</key>
+	<string>HDrawables: Visibility</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>visibility</string>
+	<key>uuid</key>
+	<string>0B0359E2-B053-47BD-A4C5-882EF20417B3</string>
+</dict>
+</plist>

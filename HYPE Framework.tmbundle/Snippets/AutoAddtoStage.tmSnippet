@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:pool}.autoAddToStage()
+	.add(new ${2:HRect()})
+	$5
+	.onCreate(
+		new HCallback() {
+			public void run(Object obj) {
+				HDrawable ${3:d} = (HDrawable) obj;
+				${3:d}
+					$4
+				;
+			}
+		}
+	)
+	.requestAll()
+;
+$0</string>
+	<key>name</key>
+	<string>AutoAddtoStage</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>autoadd</string>
+	<key>uuid</key>
+	<string>97F0E14C-BDBC-4BBC-BB11-22353FC6FF9A</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.layout(new HGridLayout()
+	$0
+)</string>
+	<key>name</key>
+	<string>HLayout</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>hlayout</string>
+	<key>uuid</key>
+	<string>CA79ABF2-4CB1-4134-B081-B5D92B1108E7</string>
+</dict>
+</plist>

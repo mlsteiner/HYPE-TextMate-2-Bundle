@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.noFill()
+$0</string>
+	<key>name</key>
+	<string>HDrawables: No Fill</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>nofill</string>
+	<key>uuid</key>
+	<string>1AE49B46-2877-4B54-B318-77924725217C</string>
+</dict>
+</plist>

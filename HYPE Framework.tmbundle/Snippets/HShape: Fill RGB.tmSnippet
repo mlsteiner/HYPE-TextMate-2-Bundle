@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.fill(${6:${1:Red}, ${2:Green}, ${3:Blue}${5:, ${4:Alpha}}})
+$0</string>
+	<key>name</key>
+	<string>HDrawables: Fill RGB</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>fill</string>
+	<key>uuid</key>
+	<string>44C3D970-2F0C-4D56-BE0B-0FA70D5E65D7</string>
+</dict>
+</plist>

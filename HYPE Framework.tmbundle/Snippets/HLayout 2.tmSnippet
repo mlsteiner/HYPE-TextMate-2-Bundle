@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.startY(${1:yPos})
+$0</string>
+	<key>name</key>
+	<string>HLayout: StartY</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>startY</string>
+	<key>uuid</key>
+	<string>849A1B47-E0F8-4F28-A70E-AC0C7D714584</string>
+</dict>
+</plist>

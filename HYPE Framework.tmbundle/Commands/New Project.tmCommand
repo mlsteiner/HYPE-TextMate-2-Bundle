@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env bash
+[[ -f "${TM_SUPPORT_PATH}/lib/bash_init.sh" ]] &amp;&amp; . "${TM_SUPPORT_PATH}/lib/bash_init.sh"
+
+"${TM_PROCESSING_DOCS:=Documents/Processing}"
+
+#TODO Prompt user for name of Directory / project to replace 'HYPE_Test'
+
+cd;
+mkdir "$HOME/$TM_PROCESSING_DOCS/HYPE_Test";
+mkdir "$HOME/$TM_PROCESSING_DOCS/HYPE_Test/build";
+touch "$HOME/$TM_PROCESSING_DOCS/HYPE_Test/build/build.pde";
+curl -o "$HOME/$TM_PROCESSING_DOCS/HYPE_Test/build/HYPE.pde" "https://raw.github.com/hype/HYPE_Processing/master/HYPE.pde";
+open -a "$TM_APP_PATH" "$HOME/$TM_PROCESSING_DOCS/HYPE_Test/build/"</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>name</key>
+	<string>Create New Project</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>text</string>
+	<key>outputLocation</key>
+	<string>replaceInput</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>uuid</key>
+	<string>907D7D10-6BDC-4499-8CE8-9B386F58FDF4</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

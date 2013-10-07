@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.size(${3:${1:x}, ${2:y}})
+$0</string>
+	<key>name</key>
+	<string>HDrawables: Size</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>size</string>
+	<key>uuid</key>
+	<string>B5C1E22C-C732-4D16-8EC1-31E9B2FC6137</string>
+</dict>
+</plist>

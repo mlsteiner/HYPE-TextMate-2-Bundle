@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>HImage ${1:image} = new HImage(${2:PImage});
+	H.add(${1:image})
+	${3}
+	;
+$0</string>
+	<key>name</key>
+	<string>HImage</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>himage</string>
+	<key>uuid</key>
+	<string>9D951F83-310E-4E7B-90BA-2D81972F2A24</string>
+</dict>
+</plist>

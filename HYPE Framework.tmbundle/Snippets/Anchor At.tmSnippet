@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.anchorAt(${1|H.LEFT,H.RIGHT,H.CENTER_X,H.TOP,H.BOTTOM,H.CENTER_Y,H.CENTER,H.TOP_LEFT,H.TOP_RIGHT,H.BOTTOM_LEFT,H.BOTTOM_RIGHT,H.CENTER_LEFT,H.CENTER_RIGHT,H.CENTER_TOP,H.CENTER_BOTTOM|})
+$0</string>
+	<key>disableAutoIndent</key>
+	<false/>
+	<key>name</key>
+	<string>HDrawables: Anchor At</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>anchor</string>
+	<key>uuid</key>
+	<string>EDEA53CD-AC71-41D3-91AA-7C17051DFF5A</string>
+</dict>
+</plist>

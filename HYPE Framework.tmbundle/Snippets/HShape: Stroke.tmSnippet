@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.stroke(${1:Grey}${3:, ${2:Alpha}})
+$0</string>
+	<key>name</key>
+	<string>HDrawables: Stroke</string>
+	<key>scope</key>
+	<string>source.processing</string>
+	<key>tabTrigger</key>
+	<string>stroke</string>
+	<key>uuid</key>
+	<string>3A8FCF2C-B5F8-45BF-ABA6-11ABE4D35A09</string>
+</dict>
+</plist>
