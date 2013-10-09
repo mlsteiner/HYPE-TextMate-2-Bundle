@@ -17,14 +17,15 @@
 			<string>907D7D10-6BDC-4499-8CE8-9B386F58FDF4</string>
 			<string>------------------------------------</string>
 			<string>DD5D820E-4C05-48A8-B721-D26BF8B70E97</string>
-			<string>AE1FE591-DFE0-44EC-BA6B-5C8EEE138174</string>
+			<string>6E07C8C5-82C2-4F54-A39A-69E28637CBC5</string>
 			<string>8C9EC875-8A05-4B47-88EA-FEA4895B0495</string>
 			<string>------------------------------------</string>
 			<string>15581F4B-1F40-4511-B0A3-BD0528A99982</string>
-			<string>C7FC305A-62D2-484B-9F3D-884CA1A31521</string>
-			<string>390F82E2-DAA2-4849-9884-341C4C35152A</string>
 			<string>81F88533-5BC1-4E8D-92DC-D22814F92E90</string>
+			<string>C7FC305A-62D2-484B-9F3D-884CA1A31521</string>
+			<string>FC4AD237-E148-4387-BC30-71B518C04C35</string>
 			<string>61E59294-8375-403C-9503-C46DFA6E27A4</string>
+			<string>390F82E2-DAA2-4849-9884-341C4C35152A</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -94,6 +95,16 @@
 				<key>name</key>
 				<string>HRect</string>
 			</dict>
+			<key>6E07C8C5-82C2-4F54-A39A-69E28637CBC5</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>AE1FE591-DFE0-44EC-BA6B-5C8EEE138174</string>
+					<string>B77FD276-B87E-4C1C-ABE2-A70C7C06825F</string>
+				</array>
+				<key>name</key>
+				<string>H.init</string>
+			</dict>
 			<key>81F88533-5BC1-4E8D-92DC-D22814F92E90</key>
 			<dict>
 				<key>items</key>
@@ -115,6 +126,17 @@
 				</array>
 				<key>name</key>
 				<string>HDrawablePool</string>
+			</dict>
+			<key>FC4AD237-E148-4387-BC30-71B518C04C35</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>75B64A78-43C4-427D-A14C-45B0C25C9768</string>
+					<string>A845345C-6DAF-4C3A-9F7A-122062A0AD47</string>
+					<string>19470050-A3DC-40BB-B396-BD03709AC474</string>
+				</array>
+				<key>name</key>
+				<string>HFollow</string>
 			</dict>
 		</dict>
 	</dict>
