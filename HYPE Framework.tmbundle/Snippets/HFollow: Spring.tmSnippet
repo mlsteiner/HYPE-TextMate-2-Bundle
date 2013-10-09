@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.spring(${1:0.70})$0</string>
+	<key>name</key>
+	<string>HFollow: Spring</string>
+	<key>tabTrigger</key>
+	<string>spring</string>
+	<key>uuid</key>
+	<string>19470050-A3DC-40BB-B396-BD03709AC474</string>
+</dict>
+</plist>
