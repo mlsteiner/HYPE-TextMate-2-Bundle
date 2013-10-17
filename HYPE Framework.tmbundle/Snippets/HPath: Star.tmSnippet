@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.star(${1:edges}, ${2:depth}, ${3:orientation})$0</string>
+	<key>name</key>
+	<string>HPath: Star</string>
+	<key>tabTrigger</key>
+	<string>star</string>
+	<key>uuid</key>
+	<string>7FDBEE4D-0C12-4AA0-860F-8BB620E41BDB</string>
+</dict>
+</plist>

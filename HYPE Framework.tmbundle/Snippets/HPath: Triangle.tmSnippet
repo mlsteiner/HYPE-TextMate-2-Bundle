@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.triangle(${1|H.ISOCELES,H.EQUILATERAL|}${2:, ${3|H.TOP,H.RIGHT,H.BOTTOM,H.LEFT|}})$0</string>
+	<key>name</key>
+	<string>HPath: Triangle</string>
+	<key>tabTrigger</key>
+	<string>triangle</string>
+	<key>uuid</key>
+	<string>B9A40227-6E42-40EF-A60E-DDA0B51EBAE8</string>
+</dict>
+</plist>
