@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.fill(${1:Grey}${3:, ${2:Alpha}})$0</string>
+	<string>.fill(${1:Grey}${3:, ${2:Alpha}})
+$0</string>
 	<key>name</key>
 	<string>HDrawables: Fill</string>
 	<key>scope</key>

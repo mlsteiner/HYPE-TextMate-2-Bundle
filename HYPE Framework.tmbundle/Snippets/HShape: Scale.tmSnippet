@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.scale(${1:scale-factor})$0</string>
+	<string>.scale(${1:scale-factor})
+$0</string>
 	<key>name</key>
 	<string>HDrawables: Scale</string>
 	<key>scope</key>

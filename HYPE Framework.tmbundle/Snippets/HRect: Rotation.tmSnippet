@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.rotation(${1:deg})$0</string>
+	<string>.rotation(${1:deg})
+$0</string>
 	<key>name</key>
 	<string>HRect: Rotation</string>
 	<key>scope</key>

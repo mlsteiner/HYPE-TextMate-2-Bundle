@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.noFill()$0</string>
+	<string>.noFill()
+$0</string>
 	<key>name</key>
 	<string>HDrawables: No Fill</string>
 	<key>scope</key>

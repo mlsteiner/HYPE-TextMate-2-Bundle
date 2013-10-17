@@ -5,8 +5,9 @@
 	<key>content</key>
 	<string>HRect ${1:rectangle} = new HRect(${2:size});
 	H.add(${1:rectangle})
-		$0
-	;</string>
+		${3}
+	;
+$0</string>
 	<key>name</key>
 	<string>HRect</string>
 	<key>scope</key>

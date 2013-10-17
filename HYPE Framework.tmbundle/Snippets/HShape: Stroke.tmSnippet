@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.stroke(${1:Grey}${3:, ${2:Alpha}})$0</string>
+	<string>.stroke(${1:Grey}${3:, ${2:Alpha}})
+$0</string>
 	<key>name</key>
 	<string>HDrawables: Stroke</string>
 	<key>scope</key>

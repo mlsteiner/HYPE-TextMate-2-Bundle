@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>H.init(this).background(${2:#${1:ECECEC}});$0</string>
+	<string>H.init(this).background(${2:#${1:ECECEC}});
+$0</string>
 	<key>name</key>
 	<string>H.init</string>
 	<key>scope</key>

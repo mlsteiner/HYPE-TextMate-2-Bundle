@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.add(new ${1:HRect()})$0</string>
+	<string>.add(new ${1:HRect()})
+$0</string>
 	<key>name</key>
 	<string>HDrawablePool: Add</string>
 	<key>scope</key>

@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.startY(${1:yPos})$0</string>
+	<string>.startY(${1:yPos})
+$0</string>
 	<key>name</key>
 	<string>HLayout: StartY</string>
 	<key>scope</key>

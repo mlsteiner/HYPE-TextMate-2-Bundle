@@ -5,19 +5,20 @@
 	<key>content</key>
 	<string>${1:pool}.autoAddToStage()
 	.add(new ${2:HRect()})
-	$4
+	$5
 	.onCreate(
 		new HCallback() {
 			public void run(Object obj) {
 				HDrawable ${3:d} = (HDrawable) obj;
 				${3:d}
-					$0
+					$4
 				;
 			}
 		}
 	)
 	.requestAll()
-;</string>
+;
+$0</string>
 	<key>name</key>
 	<string>AutoAddtoStage</string>
 	<key>scope</key>

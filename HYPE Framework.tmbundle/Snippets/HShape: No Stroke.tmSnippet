@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.noStroke()$0</string>
+	<string>.noStroke()
+$0</string>
 	<key>name</key>
 	<string>HDrawables: No Stroke</string>
 	<key>scope</key>

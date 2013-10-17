@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>HRotate ${1:rotate} = new HRotate().target(${2:target}).speed(${3:speed});$0</string>
+	<string>HRotate ${1:rotate} = new HRotate().target(${2:target}).speed(${3:speed});
+$0</string>
 	<key>name</key>
 	<string>HRotate</string>
 	<key>scope</key>

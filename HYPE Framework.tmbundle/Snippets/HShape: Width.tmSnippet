@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.width(${1:width})$0</string>
+	<string>.width(${1:width})
+$0</string>
 	<key>name</key>
 	<string>HDrawables: Width</string>
 	<key>scope</key>

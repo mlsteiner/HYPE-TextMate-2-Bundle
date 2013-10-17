@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>HRotate ${1:rotate} = new HRotate(${2:target}, ${3:speed});$0
+	<string>HRotate ${1:rotate} = new HRotate(${2:target}, ${3:speed});
+$0
 </string>
 	<key>name</key>
 	<string>HRotate Condensed</string>

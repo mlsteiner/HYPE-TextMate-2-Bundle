@@ -4,8 +4,10 @@
 <dict>
 	<key>content</key>
 	<string>HColorPool ${1:colors} = new HColorPool()
-	.add(${2:#FFFFFF})$0
-;</string>
+	.add(${2:#FFFFFF})
+;
+$0
+</string>
 	<key>name</key>
 	<string>HColorPool: Add Colors</string>
 	<key>scope</key>

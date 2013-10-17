@@ -3,7 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.height(${1:height})$0
+	<string>.height(${1:height})
+$0
 </string>
 	<key>name</key>
 	<string>HDrawables: Height</string>
