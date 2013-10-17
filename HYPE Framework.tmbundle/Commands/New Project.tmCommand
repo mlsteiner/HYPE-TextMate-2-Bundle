@@ -10,6 +10,7 @@
 
 "${TM_PROCESSING_DOCS:=Documents/Processing}"
 
+#TODO Prompt user for name of Directory / project to replace 'HYPE_Test'
 name=$(CocoaDialog inputbox \
 	--title "HYPE Processing" \
     --informative-text "Please enter a name for your project:" \
