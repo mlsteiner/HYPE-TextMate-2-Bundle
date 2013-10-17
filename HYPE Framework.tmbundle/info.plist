@@ -29,6 +29,20 @@
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>0B3E6E2D-ECB9-4086-8180-9FB22A492AD8</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>34BBFF9F-F368-4D3B-B23D-88C8A7062CEE</string>
+					<string>51966B42-1D82-46AE-8888-6B7D667C885B</string>
+					<string>DA3F1110-B7E6-41BB-885E-F33BBC3DE1F5</string>
+					<string>7FDBEE4D-0C12-4AA0-860F-8BB620E41BDB</string>
+					<string>B9A40227-6E42-40EF-A60E-DDA0B51EBAE8</string>
+					<string>BD68B9BF-D22D-4EEE-8D2C-4AA368BF2DA0</string>
+				</array>
+				<key>name</key>
+				<string>HPath</string>
+			</dict>
 			<key>15581F4B-1F40-4511-B0A3-BD0528A99982</key>
 			<dict>
 				<key>items</key>
@@ -36,6 +50,7 @@
 					<string>6D6C8647-CE43-4C4D-AE15-A75AE1C3AA73</string>
 					<string>BA5011AC-E3AD-457D-85D5-9C7244952B32</string>
 					<string>9D951F83-310E-4E7B-90BA-2D81972F2A24</string>
+					<string>0B3E6E2D-ECB9-4086-8180-9FB22A492AD8</string>
 					<string>0D9422FD-1849-4885-A632-A0A1FA56A4E2</string>
 					<string>3F243AE7-DD1D-4B01-9977-495302626D05</string>
 					<string>EDEA53CD-AC71-41D3-91AA-7C17051DFF5A</string>

@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.stroke(${4:#${1:FFFFFF}${3:, ${2:Alpha}}})
-$0
+	<string>.stroke(${4:#${1:FFFFFF}${3:, ${2:Alpha}}})$0
 </string>
 	<key>name</key>
 	<string>HDrawables: Stroke Hexidecimal</string>

@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.loc(${1:x-position}, ${2:y-position}${4:, ${3:z-position}})
-$0</string>
+	<string>.loc(${1:x-position}, ${2:y-position}${4:, ${3:z-position}})$0</string>
 	<key>name</key>
 	<string>HDrawables: Location</string>
 	<key>scope</key>

@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.add(new ${2:HShape("${1:file.svg}")})
-$0
+	<string>.add(new ${2:HShape("${1:file.svg}")})$0
 </string>
 	<key>name</key>
 	<string>HShape: Add SVG</string>
