@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.strokeJoin(${1|ROUND,MITER|})
-$0</string>
+	<string>.strokeJoin(${1|ROUND,MITER|})$0</string>
 	<key>name</key>
 	<string>HDrawables: Stroke Join</string>
 	<key>scope</key>

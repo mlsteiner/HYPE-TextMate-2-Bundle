@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>HDrawablePool ${1:pool} = new HDrawablePool(${2:100});
-$0</string>
+	<string>HDrawablePool ${1:pool} = new HDrawablePool(${2:100});$0</string>
 	<key>name</key>
 	<string>HDrawablePool</string>
 	<key>scope</key>

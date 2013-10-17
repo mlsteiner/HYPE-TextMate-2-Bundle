@@ -5,9 +5,8 @@
 	<key>content</key>
 	<string>HEllipse ${1:ellipse} = new HEllipse(${2:size});
 	H.add(${1:ellipse})
-		${3}
+		$0
 	;
-$0
 </string>
 	<key>name</key>
 	<string>HEllipse</string>

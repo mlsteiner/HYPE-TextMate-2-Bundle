@@ -3,14 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.strokeCap(${1|ROUND,MITER|})$0</string>
+	<string>HPath ${1:poly} = new HPath();
+	H.add(${1:poly})
+		$0
+	;</string>
 	<key>name</key>
-	<string>HDrawables: Stroke Cap</string>
-	<key>scope</key>
-	<string>source.processing</string>
+	<string>HPath</string>
 	<key>tabTrigger</key>
-	<string>strokecap</string>
+	<string>hpath</string>
 	<key>uuid</key>
-	<string>661CA570-27C4-454E-B326-405A85690F6E</string>
+	<string>34BBFF9F-F368-4D3B-B23D-88C8A7062CEE</string>
 </dict>
 </plist>

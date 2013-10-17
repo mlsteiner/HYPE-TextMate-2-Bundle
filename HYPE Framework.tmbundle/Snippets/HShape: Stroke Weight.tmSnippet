@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.strokeWeight(${1:3})
-$0</string>
+	<string>.strokeWeight(${1:3})$0</string>
 	<key>name</key>
 	<string>HDrawables: Stroke Weight</string>
 	<key>scope</key>

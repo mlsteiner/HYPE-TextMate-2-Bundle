@@ -4,9 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>HFollow ${1:follow} = new HFollow()
-.target(${2:target})
-;
-$0</string>
+	.target(${2:target})
+	;$0</string>
 	<key>name</key>
 	<string>HFollow</string>
 	<key>tabTrigger</key>

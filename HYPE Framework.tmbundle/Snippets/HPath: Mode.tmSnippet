@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.strokeCap(${1|ROUND,MITER|})$0</string>
+	<string>.mode(POINTS)$0</string>
 	<key>name</key>
-	<string>HDrawables: Stroke Cap</string>
-	<key>scope</key>
-	<string>source.processing</string>
+	<string>HPath: Mode</string>
 	<key>tabTrigger</key>
-	<string>strokecap</string>
+	<string>mode</string>
 	<key>uuid</key>
-	<string>661CA570-27C4-454E-B326-405A85690F6E</string>
+	<string>51966B42-1D82-46AE-8888-6B7D667C885B</string>
 </dict>
 </plist>

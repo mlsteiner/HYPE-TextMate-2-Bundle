@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.strokeCap(${1|ROUND,MITER|})$0</string>
+	<string>.triangle(${1|H.ISOCELES,H.EQUILATERAL|}${2:, ${3|H.TOP,H.RIGHT,H.BOTTOM,H.LEFT|}})$0</string>
 	<key>name</key>
-	<string>HDrawables: Stroke Cap</string>
-	<key>scope</key>
-	<string>source.processing</string>
+	<string>HPath: Triangle</string>
 	<key>tabTrigger</key>
-	<string>strokecap</string>
+	<string>triangle</string>
 	<key>uuid</key>
-	<string>661CA570-27C4-454E-B326-405A85690F6E</string>
+	<string>B9A40227-6E42-40EF-A60E-DDA0B51EBAE8</string>
 </dict>
 </plist>

@@ -5,9 +5,8 @@
 	<key>content</key>
 	<string>HImage ${1:image} = new HImage(${2:PImage});
 	H.add(${1:image})
-	${3}
-	;
-$0</string>
+	$0
+	;</string>
 	<key>name</key>
 	<string>HImage</string>
 	<key>scope</key>

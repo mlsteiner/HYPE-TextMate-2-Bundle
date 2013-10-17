@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.strokeCap(${1|ROUND,MITER|})$0</string>
+	<string>.polygon(${1:sides}${2:, ${3:orientation}})$0</string>
 	<key>name</key>
-	<string>HDrawables: Stroke Cap</string>
-	<key>scope</key>
-	<string>source.processing</string>
+	<string>HPath: Polygon</string>
 	<key>tabTrigger</key>
-	<string>strokecap</string>
+	<string>polygon</string>
 	<key>uuid</key>
-	<string>661CA570-27C4-454E-B326-405A85690F6E</string>
+	<string>DA3F1110-B7E6-41BB-885E-F33BBC3DE1F5</string>
 </dict>
 </plist>

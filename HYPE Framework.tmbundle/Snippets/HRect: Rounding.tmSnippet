@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.rounding(${1:10})
-$0</string>
+	<string>.rounding(${1:10})$0</string>
 	<key>name</key>
 	<string>HRect: Rounding</string>
 	<key>scope</key>
