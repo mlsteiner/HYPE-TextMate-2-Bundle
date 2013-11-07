@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.vertex(${1:x}, ${2:y})$0</string>
+	<string>.end($1)$0</string>
 	<key>name</key>
-	<string>HPath: Vertex</string>
+	<string>HTween: End</string>
 	<key>scope</key>
 	<string>source.processing</string>
 	<key>tabTrigger</key>
-	<string>vertex</string>
+	<string>end</string>
 	<key>uuid</key>
-	<string>BD68B9BF-D22D-4EEE-8D2C-4AA368BF2DA0</string>
+	<string>DDE55EBF-8223-4458-95FC-6B193A94605B</string>
 </dict>
 </plist>

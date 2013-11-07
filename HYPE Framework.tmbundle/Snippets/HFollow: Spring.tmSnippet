@@ -6,6 +6,8 @@
 	<string>.spring(${1:0.70})$0</string>
 	<key>name</key>
 	<string>HFollow: Spring</string>
+	<key>scope</key>
+	<string>source.processing</string>
 	<key>tabTrigger</key>
 	<string>spring</string>
 	<key>uuid</key>

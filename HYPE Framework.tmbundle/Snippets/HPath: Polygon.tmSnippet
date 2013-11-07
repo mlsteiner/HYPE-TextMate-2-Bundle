@@ -6,6 +6,8 @@
 	<string>.polygon(${1:sides}${2:, ${3:orientation}})$0</string>
 	<key>name</key>
 	<string>HPath: Polygon</string>
+	<key>scope</key>
+	<string>source.processing</string>
 	<key>tabTrigger</key>
 	<string>polygon</string>
 	<key>uuid</key>

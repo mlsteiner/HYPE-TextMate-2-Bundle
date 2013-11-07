@@ -6,6 +6,8 @@
 	<string>.triangle(${1|H.ISOCELES,H.EQUILATERAL|}${2:, ${3|H.TOP,H.RIGHT,H.BOTTOM,H.LEFT|}})$0</string>
 	<key>name</key>
 	<string>HPath: Triangle</string>
+	<key>scope</key>
+	<string>source.processing</string>
 	<key>tabTrigger</key>
 	<string>triangle</string>
 	<key>uuid</key>

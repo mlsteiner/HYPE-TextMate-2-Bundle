@@ -26,6 +26,7 @@
 			<string>FC4AD237-E148-4387-BC30-71B518C04C35</string>
 			<string>61E59294-8375-403C-9503-C46DFA6E27A4</string>
 			<string>390F82E2-DAA2-4849-9884-341C4C35152A</string>
+			<string>7E12AB76-A38A-4A9C-85D0-6719BA2380A2</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -54,6 +55,7 @@
 					<string>0D9422FD-1849-4885-A632-A0A1FA56A4E2</string>
 					<string>3F243AE7-DD1D-4B01-9977-495302626D05</string>
 					<string>EDEA53CD-AC71-41D3-91AA-7C17051DFF5A</string>
+					<string>8FAFC604-9384-449F-90B6-AA3FD6A15366</string>
 					<string>2B51AA0B-F835-4DF8-BF6F-85AAD817C98B</string>
 					<string>961AD514-731E-4FEE-A235-871E86376B85</string>
 					<string>44C3D970-2F0C-4D56-BE0B-0FA70D5E65D7</string>
@@ -86,6 +88,15 @@
 				<key>name</key>
 				<string>HRotate</string>
 			</dict>
+			<key>5BFD7070-FA64-4DA5-9988-98C73B8DDB8B</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>949E4D3F-FC2D-44AF-AC8E-260DA54332CB</string>
+				</array>
+				<key>name</key>
+				<string>HShapeLayout</string>
+			</dict>
 			<key>61E59294-8375-403C-9503-C46DFA6E27A4</key>
 			<dict>
 				<key>items</key>
@@ -95,6 +106,7 @@
 					<string>19188C6A-E707-416F-A960-7AA876226430</string>
 					<string>91D17E13-5AC2-4FF3-A2A3-1A02407C4281</string>
 					<string>849A1B47-E0F8-4F28-A70E-AC0C7D714584</string>
+					<string>5BFD7070-FA64-4DA5-9988-98C73B8DDB8B</string>
 				</array>
 				<key>name</key>
 				<string>HLayout</string>
@@ -120,6 +132,19 @@
 				<key>name</key>
 				<string>H.init</string>
 			</dict>
+			<key>7E12AB76-A38A-4A9C-85D0-6719BA2380A2</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>A0451EA7-EDA5-4F4C-BA14-BFE35C575BCC</string>
+					<string>DDE55EBF-8223-4458-95FC-6B193A94605B</string>
+					<string>F14991FB-6425-4B4D-9A7E-062D84A11387</string>
+					<string>50D1A918-9760-4BFE-A76F-D60A20083637</string>
+					<string>2B0AA3C7-2EEC-4184-9426-A34C75F7ED4F</string>
+				</array>
+				<key>name</key>
+				<string>HTween</string>
+			</dict>
 			<key>81F88533-5BC1-4E8D-92DC-D22814F92E90</key>
 			<dict>
 				<key>items</key>
@@ -137,6 +162,7 @@
 				<array>
 					<string>DF4F731B-0433-4B51-8BC3-1B4902C5A5FD</string>
 					<string>3BAED064-2404-458D-A6CC-812F70DD5DCC</string>
+					<string>0ADE4DBA-0E32-41EB-932D-2CBD8732FFFC</string>
 					<string>97F0E14C-BDBC-4BBC-BB11-22353FC6FF9A</string>
 				</array>
 				<key>name</key>

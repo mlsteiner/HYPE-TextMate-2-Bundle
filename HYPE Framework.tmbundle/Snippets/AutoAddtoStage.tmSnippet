@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>${1:pool}.autoAddToStage()
-	.add(new ${2:HRect()})
+	.add(new ${2|HRect,HShape|}())
 	$4
 	.onCreate(
 		new HCallback() {
@@ -19,7 +19,7 @@
 	.requestAll()
 ;</string>
 	<key>name</key>
-	<string>AutoAddtoStage</string>
+	<string>HDrawablePool: AutoAddtoStage</string>
 	<key>scope</key>
 	<string>source.processing</string>
 	<key>tabTrigger</key>

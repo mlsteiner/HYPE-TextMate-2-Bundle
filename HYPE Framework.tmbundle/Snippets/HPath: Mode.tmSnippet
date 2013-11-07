@@ -6,6 +6,8 @@
 	<string>.mode(POINTS)$0</string>
 	<key>name</key>
 	<string>HPath: Mode</string>
+	<key>scope</key>
+	<string>source.processing</string>
 	<key>tabTrigger</key>
 	<string>mode</string>
 	<key>uuid</key>

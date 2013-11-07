@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.vertex(${1:x}, ${2:y})$0</string>
+	<string>.add(new HShape("${2:data/${1:file.jpg}}"))$0</string>
 	<key>name</key>
-	<string>HPath: Vertex</string>
+	<string>HDrawablePool: Add HShape</string>
 	<key>scope</key>
 	<string>source.processing</string>
 	<key>tabTrigger</key>
-	<string>vertex</string>
+	<string>add</string>
 	<key>uuid</key>
-	<string>BD68B9BF-D22D-4EEE-8D2C-4AA368BF2DA0</string>
+	<string>0ADE4DBA-0E32-41EB-932D-2CBD8732FFFC</string>
 </dict>
 </plist>

@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.vertex(${1:x}, ${2:y})$0</string>
+	<string>HTween ${1:tween} = new HTween()
+	$0
+;</string>
 	<key>name</key>
-	<string>HPath: Vertex</string>
+	<string>HTween</string>
 	<key>scope</key>
 	<string>source.processing</string>
 	<key>tabTrigger</key>
-	<string>vertex</string>
+	<string>htween</string>
 	<key>uuid</key>
-	<string>BD68B9BF-D22D-4EEE-8D2C-4AA368BF2DA0</string>
+	<string>A0451EA7-EDA5-4F4C-BA14-BFE35C575BCC</string>
 </dict>
 </plist>

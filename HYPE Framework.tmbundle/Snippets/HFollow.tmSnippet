@@ -8,6 +8,8 @@
 	;$0</string>
 	<key>name</key>
 	<string>HFollow</string>
+	<key>scope</key>
+	<string>source.processing</string>
 	<key>tabTrigger</key>
 	<string>hfollow</string>
 	<key>uuid</key>

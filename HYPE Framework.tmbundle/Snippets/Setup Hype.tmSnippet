@@ -17,8 +17,6 @@ void draw() {
 }</string>
 	<key>name</key>
 	<string>Setup Hype</string>
-	<key>scope</key>
-	<string>source.processing</string>
 	<key>tabTrigger</key>
 	<string>setup</string>
 	<key>uuid</key>

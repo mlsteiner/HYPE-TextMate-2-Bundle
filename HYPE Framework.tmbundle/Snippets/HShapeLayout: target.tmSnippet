@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.vertex(${1:x}, ${2:y})$0</string>
+	<string>.target(${2:new HImage("data/${1:file.png}")})$0</string>
 	<key>name</key>
-	<string>HPath: Vertex</string>
+	<string>HShapeLayout: target</string>
 	<key>scope</key>
 	<string>source.processing</string>
 	<key>tabTrigger</key>
-	<string>vertex</string>
+	<string>target</string>
 	<key>uuid</key>
-	<string>BD68B9BF-D22D-4EEE-8D2C-4AA368BF2DA0</string>
+	<string>949E4D3F-FC2D-44AF-AC8E-260DA54332CB</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>.star(${1:edges}, ${2:depth}, ${3:orientation})$0</string>
 	<key>name</key>
 	<string>HPath: Star</string>
+	<key>scope</key>
+	<string>source.processing</string>
 	<key>tabTrigger</key>
 	<string>star</string>
 	<key>uuid</key>
